@@ -1,6 +1,6 @@
 # PIPELINE 
 
-Goal: From one animal image → predict a clean 3D mesh + keypoints and handy features for analysis.
+Goal: From one animal image → predict a clean 3D mesh + keypoints and features
 
 ## Big Picture (Input → Output)
 
