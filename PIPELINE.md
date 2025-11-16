@@ -1,4 +1,4 @@
-# PIPELINE (Poster‑Friendly Overview)
+# PIPELINE 
 
 Goal: From one animal image → predict a clean 3D mesh + keypoints and handy features for analysis.
 
