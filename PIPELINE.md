@@ -25,7 +25,7 @@ What you get per image
 - Features: visual (1280‑D), head (768‑D), fused (512‑D)
 - Overlay: quick visualization (.png)
 
-## Why this works (at a glance)
+## Why this works
 - Strong vision backbone (AniMer ViT‑H) understands animal images well.
 - SMAL head + SMAL model turn features into 3D shape & pose.
 - A small head encoder adds fine facial cues.
